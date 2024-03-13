@@ -1,0 +1,90 @@
+{
+  "nav.benky": "Benky",
+  "nav.sents": "Envíos",
+  "nav.transactional-network": "Red Transaccional",
+  "nav.help": "Ayuda",
+  "nav.button.register": "Regístrate",
+
+  "home.section1.title": "Tu dinero, donde lo necesitas.",
+  "home.section1.subtitle": "“Cambiamos el mundo con servicios financieros que mejoran la calidad de vida de las personas”",
+  "home.section1.title2": "En Benky...",
+  "home.section1.paragraph1": "Contamos con tecnología altamente innovadora, donde abarcamos una vista 360º de las necesidades que se tienen hoy para transaccionar con nuevas tecnologías digitales.",
+  "home.section1.number1": "4.3K+",
+  "home.section1.number1.text": "En envíos",
+  "home.section1.number2": "7M+",
+  "home.section1.number2.text": "Transacciones",
+
+  "home.section2.title": "Envia tu dinero, rápido y seguro",
+  "home.section2.paragraph1": "Brindamos costos justos, transacciones sin intermediarios y de una forma rápida y segura. Además, el remitente puede recibir el dinero en su moneda local y hacer uso de todo el ecosistema que ofrece Benky.",
+  "home.section2.button": "Envia ahora mismo",
+
+  "home.section3.title": "¡Pensamos en los comercios y los cripto usuarios!",
+  "home.section3.subtitle": "¡Todo tan simple a través de un código QR!",
+  "home.section3.paragraph1": "Los comercios físicos y digitales podrán vender a cualquier parte del mundo desde su país; con la tranquilidad de que realizaremos el {payment} {lineBreak}{lineBreak}Para aquellos cripto usuarios que desean pagar cuentas o hacer compras, nuestro código QR permite darle usabilidad a sus criptomonedas {qr}",
+  "home.section3.button": "Conoce como  funciona",
+
+  "home.section4.title": "Nuestro equipo",
+  "home.section4.paragraph1": "Benky está liderado por un grupo de jóvenes profesionales que se han encargado de diseñar y desarrollar una solución innovadora sobre nuevas tecnologías como lo es el Blockchain, buscando brindar soluciones de banca digital descentralizada.",
+
+  "footer.benky": "Grupo Benky S.A.S",
+  "footer.nit": "NIT 901519514",
+  "footer.address": "Carrera 31B No. 1H -54 Bogota, Colombia",
+  "footer.t_c": "T&C",
+  "footer.data.policy": "Política Datos",
+  "footer.code.t_c": "Código E&C",
+  "footer.prevention.policy": "Políticas Prevención",
+  "footer.copyright": "© Copyright 2022, All Rights Reserved",
+  "footer.contact": "{contact}  (+57) 316 180 05 14  / {mail}",
+
+  "transactional.section1.title": "La forma más fácil de pagar con cripto.",
+
+  "transactional.section2.title": "Algunos de nuestros lugares",
+  "transactional.section3.title": "Encuentra el establecimiento más cercano",
+  "transactional.section3.subtitle": "Paga con nuestro código QR en cualquiera de estos comercios",
+
+  "transactional.section4.title": "¿Cómo realizar tu pago con cripto?",
+  "transactional.section4.paragraph1": "1. Escanea nuestro código QR{br}2. Ingresa el valor de tu compra{br}3. Selecciona la criptomoneda{br}4. Valida la información, confirma y listo!",
+
+  "transactional.section5.title": "Escaneá & paga!{br}Tan sencillo como {br}con efectivo!",
+
+  "help.header.title": "¿Preguntas? ¡Aquí la respuesta!",
+  "help.header.subtitle": "Selecciona sobre que quieres obetener información",
+  "help.sent": "Envios",
+  "help.transactional": "Red transaccional",
+  "help.questions.title": "Preguntas frecuentes",
+
+  "help.transactional.1.title": "¿Dónde pagar con QR Benky?",
+  "help.transactional.1.text": "Ingresa a Red transaccional, allí encontrarás la opción Personas, entra y verás un listado por departamentos de los comercios donde puedes pagar con QR Benky.",
+  "help.transactional.2.title": "¿Cómo pagar con QR Benky?",
+  "help.transactional.2.text": "Escanea el Código QR, te redirigirá a una ventana donde ingresaras el valor a pagar con pesos, después seleccionas la criptomoneda con que vas a realizar el pago, verificas los datos y te enviará a tu wallet para realizar el proceso habitual.",
+  "help.transactional.3.title": "¿Con qué monedas puedo pagar?",
+  "help.transactional.3.text": "",
+  "help.transactional.4.title": "¿Desde qué wallets/billeteras puedo pagar?",
+  "help.transactional.4.text": "",
+  "help.transactional.5.title": "¿En cuánto tiempo verá reflejada la transacción el comercio?",
+  "help.transactional.5.text": "",
+
+  "help.sent.1.title": "¿Cómo enviar dinero?",
+  "help.sent.1.text": "Operamos <b>recibiendo tu dinero en el país de origen</b> y lo <b>entregamos en el país de destino</b>, siendo ambos pagos locales.",
+  "help.sent.2.title": "¿Cómo hacer un envío de dinero?",
+  "help.sent.2.text": "Ingresa a la pestaña <b>Personas</b>, allí encontrarás la <b>opción Envíos</b>, entras y <b>diligencia un formulario</b> con los datos del envío, datos del remitente y datos del destinatario, por último <b>confirmas tus datos</b>. {br}{br}Recibirás un <b>PIN</b> con el que puedes realizar tu pago en cualquiera de nuestros puntos aliados o realizarlo a través de PSE. Recuerda que cuando realices tu primer envío realizaremos una verificación de identidad, pero no te preocupes, este proceso solo se realizará una vez.",
+  "help.sent.3.title": "¿Dónde puedo realizar el pago de mi envío?",
+  "help.sent.3.text": "",
+  "help.sent.4.title": "¿Qué tasa maneja Benky?",
+  "help.sent.4.text": "",
+  "help.sent.5.title": "¿Desde qué países puedo enviar dinero?",
+  "help.sent.5.text": "",
+  "help.sent.6.title": "¿Hacia qué países puedo enviar dinero con Benky?",
+  "help.sent.6.text": "",
+  "help.sent.7.title": "¿En cuánto tiempo llega mi dinero?",
+  "help.sent.7.text": "",
+
+  "help.footer.title": "¿No resolviste tus dudas?",
+  "help.footer.subtitle": "<b>Contactanos a través de nuestro Whatsapp</b>  {whatsapp}  <br></br><b>o a través de nuestro email</b> {email}  ",
+  
+  "onboarding.question.1": "Pregunta 1?",
+  "onboarding.question.2": "Pregunta 2?",
+  "onboarding.question.3": "Pregunta 3?",
+  "onboarding.question.4": "Pregunta 4?"
+
+}

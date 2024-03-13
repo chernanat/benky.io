@@ -1,0 +1,78 @@
+.title{
+    color: inherit;
+  padding-top: 0;
+  width: auto;
+  text-align: left;
+  float: none;
+  font-size: 18px;
+  margin-bottom: 12px;
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 100%;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.span_red{
+    color: red;
+    fill: red;
+}
+
+.form{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 32rem;
+    padding: 0;
+}
+
+
+.div{
+    line-height: 18px;
+    font-size: 13px;
+    color: hsl(0, 0%, 30%);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.submit_button{
+    color: blue;
+}
+
+.cell{
+    position: absolute;
+    font-size: 13px;
+    height: 32px;
+    padding: 0%;
+    margin: 0%;
+    vertical-align: top;
+    background: white;
+    color: black;
+    cursor: default;
+    outline: none;
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: middle;
+    height: auto;
+    min-height: 28px;
+    position: relative;
+    white-space: normal;
+    line-height: 12px;
+    box-shadow: none;
+    overflow: visible;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: transparent;
+}
+
+.cell_container{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+

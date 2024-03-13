@@ -1,0 +1,29 @@
+.article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.title {
+  margin: 0;
+  font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  color: #1b1c20;
+  margin-bottom: 519px;
+}
+.image{
+    object-fit: cover;
+    width: 100%;
+    max-width: 492px;
+    position: absolute;
+    height: auto;
+    bottom: -54px;
+}
+@media (max-width: 450px) {
+  .title {
+    font-size: 40px;
+    margin-bottom: 400px
+  }
+}

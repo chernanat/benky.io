@@ -1,0 +1,32 @@
+.article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 72px;
+  padding-bottom: 89px;
+}
+.header h1 {
+  margin: 0;
+  margin-bottom: 26px;
+  font-weight: 500;
+  font-size: 36px;
+  color: #1b1c20;
+  text-align: center;
+}
+.paragraph {
+  margin: 0;
+  margin-bottom: 57px;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #383a47;
+  max-width: 779px;
+  text-align: center;
+}
+.image {
+  width: 100%;
+  max-width: 416px;
+  height: auto;
+  object-fit: cover;
+}

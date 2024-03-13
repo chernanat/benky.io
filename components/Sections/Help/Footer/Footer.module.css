@@ -1,0 +1,25 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 31px;
+  margin-bottom: 74px;
+}
+.title {
+  margin: 0;
+  font-weight: 600;
+  font-size: 48px;
+  text-align: center;
+  color: #1b1c20;
+}
+.subtitle {
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  color: #797b89;
+  margin: 0;
+}
+.span{
+    cursor: pointer;
+}

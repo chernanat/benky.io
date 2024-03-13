@@ -1,0 +1,51 @@
+.button {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 14px 14px 14px 14px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.button__blue {
+  flex-direction: row;
+  border: 1px solid var(--dark-blue);
+  background: var(--dark-blue);
+  color: var(--white);
+}
+.button__white {
+  flex-direction: row-reverse;
+  border: 1px solid var(--dark-blue);
+  background-color: var(--white);
+  color: var(--dark-blue);
+  font-weight: 700;
+}
+.button__orange {
+  flex-direction: row-reverse;
+  border: 1px solid var(--dark-blue);
+  background-color: #ff6e2c;
+  color: var(--dark-blue);
+}
+.button span {
+  font-weight: 500;
+  font-size: var(--s);
+  font-family: 'Poppins', sans-serif;
+}
+.button__white span {
+  font-weight: 700;
+}
+
+.button:hover {
+  color: var(--gray-1);
+}
+.button__white:hover {
+  color: var(--black);
+}
+.button img {
+  width: 14px;
+  height: 14px;
+  object-fit: cover;
+}

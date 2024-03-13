@@ -1,0 +1,139 @@
+.footer {
+  background: #f8f8fa;
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
+  padding-top: 112px;
+  padding-bottom: 40px;
+}
+.firstSection {
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 20px 16px;
+}
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.image__isotipo {
+  margin-bottom: 18px;
+}
+.b__text,
+.text b {
+  font-weight: 700;
+  font-size: 16px;
+  color: #797b89;
+  margin: 0;
+  white-space: nowrap;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  color: #797b89;
+  margin: 0;
+  white-space: nowrap;
+}
+.link {
+  font-weight: 500;
+  font-size: 17px;
+  color: #1b1c20;
+  cursor: pointer;
+  margin: 0;
+  white-space: nowrap;
+}
+.link:hover {
+  color: var(--orange);
+  font-weight: bold;
+}
+
+.rightSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 26px;
+  flex-wrap: wrap;
+}
+.social_networks {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 34.39px;
+  margin-left: 28px;
+  flex-wrap: wrap;
+}
+.social_networks img {
+  cursor: pointer;
+}
+.secondSection {
+  margin-top: 33px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 4px 20px;
+}
+.secondRightSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 26px;
+}
+.secondRightSection span {
+  cursor: pointer;
+}
+.line {
+  width: 100%;
+  height: 2px;
+  background-color: #d4d4d8;
+}
+
+@media (max-width: 800px) {
+  .rightSection {
+    justify-content: flex-start;
+
+    align-items: flex-start;
+  }
+  .social_networks {
+    margin-left: 0;
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 600px) {
+  .firstSection {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .rightSection {
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .social_networks {
+    margin-left: 0;
+    justify-content: flex-start;
+  }
+  .b__text,
+  .text b {
+    white-space: pre-wrap;
+  }
+  .text {
+    white-space: pre-wrap;
+  }
+  .link {
+    white-space: pre-wrap;
+  }
+}

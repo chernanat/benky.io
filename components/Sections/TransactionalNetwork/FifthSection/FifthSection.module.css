@@ -1,0 +1,32 @@
+.article {
+  padding-top: 104px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+    gap: 20px;
+}
+.article img {
+  width: 60%;
+}
+.title {
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+  margin: 0;
+}
+@media (max-width:950px) {
+    .article{
+        flex-direction: column;
+        justify-content: start;
+        align-items: stretch;
+        padding-top: 50px;
+    }
+    .title{
+        text-align: center;
+    }
+    .article img{
+        align-self: center;
+        height: auto;
+    }
+}

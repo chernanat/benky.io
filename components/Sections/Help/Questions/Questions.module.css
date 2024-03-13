@@ -1,0 +1,22 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 114px;
+}
+.title {
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 63px;
+}
+.questions{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 51px;
+    width: 100%;
+}

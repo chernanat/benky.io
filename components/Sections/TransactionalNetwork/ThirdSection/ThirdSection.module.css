@@ -1,0 +1,30 @@
+.article {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 76px;
+  margin-top: 74px;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 51px;
+}
+.title {
+  margin: 0;
+  font-weight: 500;
+  font-size: 36px;
+  color: #1b1c20;
+  text-align: center;
+}
+.subtitle {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #383a47;
+}

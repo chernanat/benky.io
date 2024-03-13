@@ -1,0 +1,19 @@
+.article {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 4px 20px;
+  background: #f8f8fa;
+  padding-top: 195px;
+  padding-bottom: 83px;
+}
+.title {
+  margin: 0;
+  text-align: left;
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+  max-width: 420px;
+}
