@@ -1,9 +1,9 @@
 import React from 'react';
-import Onboarding from 'components/Forms/OnboardingForm'
-type Props = {};
 
-const index = (props: Props) => {
-  return( <Onboarding></Onboarding>);
+import Onboarding from 'components/Forms/OnboardingForm';
+
+const index = () => {
+  return <Onboarding></Onboarding>;
 };
 
 export default index;
